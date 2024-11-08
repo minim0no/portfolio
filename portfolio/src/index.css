@@ -1,4 +1,4 @@
-@import url("https://fonts.googleapis.com/css2?family=Hanken+Grotesk:wght@400;500;700&display=swap");
+@import url("https://fonts.googleapis.com/css2?family=Abril+Fatface:wght@400;500;700&display=swap");
 
 @tailwind base;
 @tailwind components;
@@ -11,6 +11,6 @@ body {
     padding: 0;
     background-color: #0e100f;
     color: #ffffe3;
-    font-family: "Hanken Grotesk", sans-serif;
+    font-family: "Abril Fatface", cursive;
     position: relative;
 }
